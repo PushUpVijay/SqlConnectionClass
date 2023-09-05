@@ -1,0 +1,7 @@
+C:\Users\Vijay\source\repos\PracticeSqlConnectionClass\PracticeSqlConnectionClass\bin\Debug\PracticeSqlConnectionClass.exe.config
+C:\Users\Vijay\source\repos\PracticeSqlConnectionClass\PracticeSqlConnectionClass\bin\Debug\PracticeSqlConnectionClass.exe
+C:\Users\Vijay\source\repos\PracticeSqlConnectionClass\PracticeSqlConnectionClass\bin\Debug\PracticeSqlConnectionClass.pdb
+C:\Users\Vijay\source\repos\PracticeSqlConnectionClass\PracticeSqlConnectionClass\obj\Debug\PracticeSqlConnectionClass.csproj.CoreCompileInputs.cache
+C:\Users\Vijay\source\repos\PracticeSqlConnectionClass\PracticeSqlConnectionClass\obj\Debug\PracticeSqlConnectionClass.exe
+C:\Users\Vijay\source\repos\PracticeSqlConnectionClass\PracticeSqlConnectionClass\obj\Debug\PracticeSqlConnectionClass.pdb
+C:\Users\Vijay\source\repos\PracticeSqlConnectionClass\PracticeSqlConnectionClass\obj\Debug\PracticeSqlConnectionClass.csproj.AssemblyReference.cache
